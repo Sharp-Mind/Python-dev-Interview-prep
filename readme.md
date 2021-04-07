@@ -1,0 +1,1 @@
+Learning repository for course "Python developer interview preparation course" by Geekbrains.ru portal.
